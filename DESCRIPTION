@@ -1,0 +1,16 @@
+Package: WatsonMLScore
+Type: Package
+Title: Score Data Input With Watson Machine Learning
+Version: 0.1.0
+Imports: 
+  rjson,
+  httr,
+  XML,
+  compare
+Author: DATALYTICS SOLUTIONS D'AFFAIRES
+Maintainer: Mohamed SABRI <mohamed@datalyticsbusiness.com>
+Description: Score Data Input using SPSS Stream stored in Watson 
+    Machine Learning Service.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true

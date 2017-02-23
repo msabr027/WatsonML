@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(rjson)
+import(httr)
+import(XML)
+import(compare)
